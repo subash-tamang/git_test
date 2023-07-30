@@ -1,1 +1,3 @@
 Hello Odin, Norse God.
+
+Changing a default commit message editor
